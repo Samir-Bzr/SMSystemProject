@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="connectionString" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Server=SERVER-ZAOUIA;Initial Catalog=GestProDB;User Id=dev01;Password=9988;</Value>
+      <Value Profile="(Default)">"";</Value>
     </Setting>
     <Setting Name="NotificationTime" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">3000</Value>
