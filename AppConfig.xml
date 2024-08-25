@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<connectionStrings>
+		<add name="DefaultConnection"
+			 connectionString="SERVER=SERVER-ZAOUIA;DATABASE=DataBaseSMSSystem;Persist Security Info=True;User ID=dev01;Password=9988;TrustServerCertificate=True"
+			 providerName="System.Data.SqlClient" />
+	</connectionStrings>
+</configuration>
